@@ -1,0 +1,29 @@
+{
+  "name": "oconnected",
+  "version": "1.0.0",
+  "description": "Social network for Orange Cloud support team",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "server": "nodemon server"
+  },
+  "author": "Nemanja Kovacevic",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "bcryptjs": "^2.4.3",
+    "config": "^3.3.1",
+    "express": "^4.17.1",
+    "express-validator": "^6.4.1",
+    "gravatar": "^1.8.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.9.12",
+    "request": "^2.88.2",
+    "winston": "^3.2.1",
+    "winston-mongodb": "^5.0.1"
+  },
+  "devDependencies": {
+    "concurrently": "^5.2.0",
+    "nodemon": "^2.0.3"
+  }
+}

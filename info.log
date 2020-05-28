@@ -1,0 +1,18 @@
+{"message":"profile validation failed: experience.0.title: Path `title` is required., experience.0.company: Path `company` is required., experience.0.from: Path `from` is required.","level":"error","timestamp":"2020-05-21 15:59:55"}
+{"message":"Server started on 5000","level":"error","timestamp":"2020-05-21 16:17:47"}
+{"message":"MongoDB connected","level":"info","timestamp":"2020-05-21 16:17:49"}
+{"message":"profile validation failed: education.0.from: Path `from` is required.","level":"error","timestamp":"2020-05-21 16:57:56"}
+{"message":"config is not defined","level":"error","timestamp":"2020-05-21 17:01:17"}
+{"message":"config is not defined","level":"error","timestamp":"2020-05-21 17:01:24"}
+{"message":"config is not defined","level":"error","timestamp":"2020-05-21 17:01:29"}
+{"message":"config is not defined","level":"error","timestamp":"2020-05-21 17:02:14"}
+{"message":"Server started on 5000","level":"error","timestamp":"2020-05-21 17:03:27"}
+{"message":"axios is not defined","level":"error","timestamp":"2020-05-21 17:03:30"}
+{"message":"MongoDB connected","level":"info","timestamp":"2020-05-21 17:03:39"}
+{"message":"Server started on 5000","level":"error","timestamp":"2020-05-21 17:04:25"}
+{"message":"Server started on 5000","level":"error","timestamp":"2020-05-21 17:04:26"}
+{"message":"MongoDB connected","level":"info","timestamp":"2020-05-21 17:04:33"}
+{"message":"Server started on 5000","level":"error","timestamp":"2020-05-21 17:19:58"}
+{"message":"MongoDB connected","level":"info","timestamp":"2020-05-21 17:20:01"}
+{"message":"Server started on 5000","level":"error","timestamp":"2020-05-21 17:20:08"}
+{"message":"MongoDB connected","level":"info","timestamp":"2020-05-21 17:20:12"}
